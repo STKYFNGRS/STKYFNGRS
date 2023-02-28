@@ -17,7 +17,7 @@ export default function Home() {
 
         <header>
           <div>
-            <link href="?"></link>
+            <link href="#"></link>
           </div>
         </header>
       </div>
