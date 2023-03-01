@@ -19,8 +19,9 @@ export default function Home() {
           <div className="flex items-center container mx-auto max-w-5xl justify-between h-full">
             <a href="#">
               <span className="font-coiny text-xl md:text-3xl font-bold">
-                STKYFNGRS
+                STKY
               </span>
+              FNGRS
             </a>
           </div>
         </header>
