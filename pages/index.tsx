@@ -26,7 +26,7 @@ export default function Home() {
               </span>
             </a>
 
-            <nav aria-label="Contact Mens">
+            <nav aria-label="Contact Menu">
               <ul className="flex items-center space-x-4 md:space-x-6">
                 <li className="cursor-pointer">
                   <a
