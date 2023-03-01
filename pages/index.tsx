@@ -18,9 +18,10 @@ export default function Home() {
         <header className="min-w-full text-gray-800 py-14 px-4 md:px-0">
           <div className="flex items-center container mx-auto max-w-5xl justify-between h-full">
             <a href="#">
-              <span className="font-coiny text-xl md:text-3xl font-bold">
-                STKYFNGRS
-              </span>
+              <a className="font-coiny text-xl md:text-3xl font-bold">STKY</a>
+              <a className="font-coiny text-xl md:text-3xl font-bold bg-gradient-to-br from-brand-black to-brand-purple pr-2 bg-clip-text text-transparent">
+                FNGRS
+              </a>
             </a>
 
             <nav aria-label="Contact Menu">
