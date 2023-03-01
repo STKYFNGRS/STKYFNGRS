@@ -15,7 +15,7 @@ export default function Home() {
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
-        <header>
+        <header className="min-w-full text-gray-800 py-14 px-4 md:px-0">
           <div>
             <link href="#"></link>
           </div>
