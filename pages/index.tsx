@@ -17,9 +17,11 @@ export default function Home() {
 
         <header className="min-w-full text-gray-800 py-14 px-4 md:px-0">
           <div className="flex items-center container mx-auto max-w-5xl justify-between h-full">
-            <link href="#">
-              <a className="font-coiny text-xl md:text-3xl font-bold"></a>
-            </link>
+            <a href="#">
+              <span className="font-coiny text-xl md:text-3xl font-bold">
+                STKY
+              </span>
+            </a>
           </div>
         </header>
       </div>
