@@ -21,9 +21,13 @@ export default function Home() {
               <span className="font-coiny text-xl md:text-3xl font-bold">
                 STKY
               </span>
-              FNGRS
+              <span className="font-coiny text-xl md:text-3xl font-bold bg-gradient-to-br from-brand-black to-brand-purple pr-2 bg-clip-text text-transparent">
+                FNGRS
+              </span>
             </a>
           </div>
+
+          <></>
         </header>
       </div>
     </>
