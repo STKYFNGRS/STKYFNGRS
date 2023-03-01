@@ -19,10 +19,7 @@ export default function Home() {
           <div className="flex items-center container mx-auto max-w-5xl justify-between h-full">
             <a href="#">
               <a className="font-coiny text-xl md:text-3xl font-bold">
-                STKY
-                <a className="bg-gradient-to-br from-brand-black to-brand-purple pr-2 bg-clip-text text-transparent">
-                  FNGRS
-                </a>
+                STKYFNGRS
               </a>
             </a>
 
