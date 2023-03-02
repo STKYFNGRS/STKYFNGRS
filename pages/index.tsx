@@ -10,7 +10,7 @@ export default function Home() {
       <div className="min-h-screen h-full w-full flex flex-col bg-brand-light overflow-hidden">
         <Head>
           <title> STKYFNGRS </title>
-          <meta name="description" content="" />
+          <meta name="description" content="For the real ones" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
