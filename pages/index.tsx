@@ -116,7 +116,7 @@ export default function Home() {
                 </h2>
 
                 <p className="mt-6 text-lg">
-                  {`STKYFNGRS are NFTs for the real ones. All NFT holders will be granted access to the Discord as well as eligible for future surprises and giveaways.`}
+                  {`You can pick your friends and you can can pick your nose. Just don't try and pick your friends nose.`}
                 </p>
               </div>
             </div>
