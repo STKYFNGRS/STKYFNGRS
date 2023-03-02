@@ -116,7 +116,7 @@ export default function Home() {
                 </h2>
 
                 <p className="mt-6 text-lg">
-                  {`You can pick your friends and you can can pick your nose. Just don't try and pick your friends nose.`}
+                  {`You can pick your friends, you can can pick your nose, but you can't pick your friends nose.`}
                 </p>
               </div>
             </div>
