@@ -114,13 +114,32 @@ export default function Home() {
                 </h2>
 
                 <p className="mt-6 text-lg">
-                  {`STKYFNGRS is an independant artist and developer. Here you can mint a 1/1 NFT that consists of his original artwork and photographs. You can also mint an NFT from the STKYFNGRS 10k collection. All NFT holders will be granted access to the Discord as well as eligible for future surprises and giveaways.`}
+                  {`STKYFNGRS are NFTs for the real ones. All NFT holders will be granted access to the Discord as well as eligible for future surprises and giveaways.`}
                 </p>
               </div>
             </div>
-            <a href="/mint">
+            <a href="/mint 1of1">
               <div className="mt-16 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
                 Go to 1/1 minting page
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="w-6 h-6 ml-2 mt-0.5"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
+                    d="M17 8l4 4m0 0l-4 4m4-4H3"
+                  />
+                </svg>
+              </div>
+            </a>
+            <a href="/mint 10k">
+              <div className="mt-16 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
+                Go to 10k minting page
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="w-6 h-6 ml-2 mt-0.5"
