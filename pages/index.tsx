@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
+import Link from 'next/link'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -120,7 +121,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <a href="/mint">
+            <Link href="/mint">
               <div className="mt-16 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
                 Go to 1/1 minting page
                 <svg
@@ -138,7 +139,7 @@ export default function Home() {
                   />
                 </svg>
               </div>
-            </a>
+            </Link>
             <a href="/mint 10k">
               <div className="mt-16 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
                 Go to 10k minting page
