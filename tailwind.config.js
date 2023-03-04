@@ -18,7 +18,8 @@ module.exports = {
         'brand-silver-blue': 'var(--clr-silver-lake-blue)',
         'brand-platinum': 'var(--clr-platinum)',
         'brand-background': 'var(--clr-background)'
-      }
+      },
+      animation: { 'pulse-slow': 'pulse 10s linear infinite' }
     }
   },
   plugins: []
