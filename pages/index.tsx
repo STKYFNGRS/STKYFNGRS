@@ -121,7 +121,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <Link href="/mint">
+            <Link href="/mint1of1">
               <div className="mt-16 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
                 Go to 1/1 minting page
                 <svg
@@ -140,7 +140,7 @@ export default function Home() {
                 </svg>
               </div>
             </Link>
-            <a href="/mint 10k">
+            <Link href="/mint10k">
               <div className="mt-16 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
                 Go to 10k minting page
                 <svg
@@ -158,7 +158,7 @@ export default function Home() {
                   />
                 </svg>
               </div>
-            </a>
+            </Link>
           </div>
         </div>
       </div>
