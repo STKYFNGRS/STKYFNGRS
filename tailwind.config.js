@@ -19,7 +19,7 @@ module.exports = {
         'brand-platinum': 'var(--clr-platinum)',
         'brand-background': 'var(--clr-background)'
       },
-      animation: { 'pulse-slow': 'pulse 10s linear infinite' }
+      animation: { 'pulse-slow': 'pulse 8s linear infinite' }
     }
   },
   plugins: []
