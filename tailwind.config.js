@@ -20,7 +20,7 @@ module.exports = {
         'brand-background': 'var(--clr-background)',
         'brand-green': 'var(--clr-green)'
       },
-      animation: { 'pulse-slow': 'pulse 8s linear infinite' }
+      animation: { 'pulse-slow': 'pulse 2s linear infinite' }
     }
   },
   plugins: []

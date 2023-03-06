@@ -7,7 +7,7 @@ export default function Mint() {
         <Image
           src="/images/silhouette.png"
           alt=""
-          className="animate-pulse-slow absolute inset-auto block w-full h-full min-h-screen object-cover"
+          className="absolute inset-auto block w-full h-full min-h-screen object-cover"
           width={1280}
           height={720}
         />
