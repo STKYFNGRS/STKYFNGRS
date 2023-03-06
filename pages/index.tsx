@@ -108,8 +108,8 @@ export default function Home() {
                 <Image
                   src="/images/hunt pick 2.png"
                   alt="Hunter Pick"
-                  width="350"
-                  height="350"
+                  width="1000"
+                  height="1000"
                 />
               </div>
 
@@ -119,7 +119,7 @@ export default function Home() {
                 </h2>
 
                 <p className="mt-6 text-lg">
-                  {`You can pick your friends, you can can pick your nose, but you can't pick your friends nose.`}
+                  {`Welcome to my webiste. Prior to 2021 I had no developer skills, had never created a website or even opened an IDE for that matter. After learning about ethereum I set out to learn how to build my own project. This website is the result of my learning endeavors and I hope you will join me on this journey.`}
                 </p>
               </div>
             </div>
