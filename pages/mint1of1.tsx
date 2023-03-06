@@ -5,7 +5,7 @@ export default function Mint1of1() {
     <div className="min-h-screen h-full w-full overflow-hidden flex flex-col items-center justify-center bg-brand-background">
       <div className="relative w-full h-full flex flex-col items-center justify-center">
         <Image
-          src="/images/background.jpg"
+          src="/images/Background.jpg"
           alt=""
           className="animate-pulse-slow absolute inset-auto block w-full min-h-screen object-cover"
           width={1920}
