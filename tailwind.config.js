@@ -17,7 +17,8 @@ module.exports = {
         'brand-oxford-blue': 'var(--clr-oxford-blue)',
         'brand-silver-blue': 'var(--clr-silver-lake-blue)',
         'brand-platinum': 'var(--clr-platinum)',
-        'brand-background': 'var(--clr-background)'
+        'brand-background': 'var(--clr-background)',
+        'brand-green': 'var(--clr-green)'
       },
       animation: { 'pulse-slow': 'pulse 8s linear infinite' }
     }
