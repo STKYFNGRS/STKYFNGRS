@@ -121,7 +121,7 @@ export default function Home() {
                 <p className="mt-6 text-lg">{`Welcome! It took me two years to learn how to build this website, write/deploy contracts to Ethereum and everything in between. I hope you enjoy poking around as much as I had making it.`}</p>
               </div>
             </div>
-            <Link href="/mint1of1">
+            <Link href="/mint">
               <div className="mt-16 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
                 Go minting page
                 <svg
