@@ -117,7 +117,7 @@ export default function Home() {
               </p>
             </div>
             <div className="flex flex-col items-center md:flex-row md:space-x-16 space-y-10 mt-0 w-full">
-              <div className="flex flex-col md:items-start items-center justify-center text-center font-coiny text-gray-800 px-4 md:px-0 py-10 mt-4">
+              <div className="flex flex-col md:items-start items-center justify-center text-center font-coiny text-gray-800 px-4 md:px-0 py-5 mt-0">
                 <p className="mt-6 text-lg">{`Welcome! It took me two years to learn how to build this website, write/deploy contracts to Ethereum and everything in between. I hope you enjoy poking around as much as I had making it.`}</p>
               </div>
             </div>
