@@ -111,12 +111,13 @@ export default function Home() {
                 height="300"
               />
             </div>
-            <div className="flex flex-col md:flex-row md:space-x-16 space-y-10 items-center mt-20 w-full">
-              <div className="flex flex-col md:items-start items-center justify-center text-center font-coiny text-gray-800 px-4 md:px-0 py-10 mt-14">
-                <p className="font-bold text-2xl items-center justify-center text-center md:text-4xl uppercase mt-6">
-                  About STKYFNGRS
-                </p>
-
+            <div>
+              <p className="font-coiny font-bold text-2xl md:text-4xl uppercase mt-14">
+                About STKYFNGRS
+              </p>
+            </div>
+            <div className="flex flex-col items-center md:flex-row md:space-x-16 space-y-10 mt-0 w-full">
+              <div className="flex flex-col md:items-start items-center justify-center text-center font-coiny text-gray-800 px-4 md:px-0 py-10 mt-4">
                 <p className="mt-6 text-lg">{`Welcome! It took me two years to learn how to build this website, write/deploy contracts to Ethereum and everything in between. I hope you enjoy poking around as much as I had making it.`}</p>
               </div>
             </div>
