@@ -102,25 +102,22 @@ export default function Home() {
         </header>
         <div className="h-full w-full container max-w-5xl mx-auto flex flex-col items-center pt-4">
           <div className="flex flex-col items-center max-w-4xl w-full">
+            {/* The image */}
+            <div style={{ borderRadius: '8px', overflow: 'hidden' }}>
+              <Image
+                src="/images/hunt pick 2.png"
+                alt="Hunter Pick"
+                width="300"
+                height="300"
+              />
+            </div>
             <div className="flex flex-col md:flex-row md:space-x-16 space-y-10 items-center mt-20 w-full">
-              {/* The image */}
-              <div style={{ borderRadius: '8px', overflow: 'hidden' }}>
-                <Image
-                  src="/images/hunt pick 2.png"
-                  alt="Hunter Pick"
-                  width="1000"
-                  height="1000"
-                />
-              </div>
-
               <div className="flex flex-col md:items-start items-center justify-center text-center font-coiny text-gray-800 px-4 md:px-0 py-10 mt-14">
-                <h2 className="font-bold text-2xl md:text-4xl uppercase">
+                <p className="font-bold text-2xl items-center justify-center text-center md:text-4xl uppercase mt-6">
                   About STKYFNGRS
-                </h2>
-
-                <p className="mt-6 text-lg">
-                  {`Welcome to my webiste. Prior to 2021 I had no developer skills, had never created a website or even opened an IDE for that matter. After learning about ethereum I set out to learn how to build my own project. This website is the result of my learning endeavors and I hope you will join me on this journey.`}
                 </p>
+
+                <p className="mt-6 text-lg">{`Welcome! It took me two years to learn how to build this website, write/deploy contracts to Ethereum and everything in between. I hope you enjoy poking around as much as I had making it.`}</p>
               </div>
             </div>
             <Link href="/mint1of1">
