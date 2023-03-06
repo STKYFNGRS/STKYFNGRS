@@ -104,12 +104,14 @@ export default function Home() {
           <div className="flex flex-col items-center max-w-4xl w-full">
             <div className="flex flex-col md:flex-row md:space-x-16 space-y-10 items-center mt-20 w-full">
               {/* The image */}
-              <Image
-                src="/images/hunt pick 2.png"
-                alt="Hunter Pick"
-                width="350"
-                height="350"
-              />
+              <div style={{ borderRadius: '8px', overflow: 'hidden' }}>
+                <Image
+                  src="/images/hunt pick 2.png"
+                  alt="Hunter Pick"
+                  width="350"
+                  height="350"
+                />
+              </div>
 
               <div className="flex flex-col md:items-start items-center justify-center text-center font-coiny text-gray-800 px-4 md:px-0 py-10 mt-14">
                 <h2 className="font-bold text-2xl md:text-4xl uppercase">
