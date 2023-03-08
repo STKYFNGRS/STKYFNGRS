@@ -47,7 +47,7 @@ export default function Home() {
                   <a
                     href="https://mastodon.social/@STKYFNGRS"
                     target="_blank"
-                    rel="noreferrer"
+                    rel="me"
                   >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
