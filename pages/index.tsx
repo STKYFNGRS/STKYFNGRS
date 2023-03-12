@@ -118,7 +118,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col items-center md:flex-row md:space-x-16 space-y-10 mt-0 w-full">
               <div className="flex flex-col md:items-start items-center justify-center text-center font-coiny text-gray-800 px-4 md:px-0 py-5 mt-0">
-                <p className="mt-6 text-lg">{`Welcome! Here you can mint one of my orignal photos as a 1 of 1 NFT. You can also connect with me at the links above. Stay tuned as this project has some exciting features in the works.`}</p>
+                <p className="mt-6 text-lg">{`Welcome! Here you can mint one of my orignal creations as a 1 of 1 NFT. You can also connect with me at the links above. Stay tuned as this project has some exciting features in the works.`}</p>
               </div>
             </div>
             <Link href="/mint">
