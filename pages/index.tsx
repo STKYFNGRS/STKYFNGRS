@@ -121,6 +121,7 @@ export default function Home() {
                 <p className="mt-6 text-lg">{`Welcome! Here you can mint one of my orignal creations as a 1 of 1 NFT. You can also connect with me at the links above. Stay tuned as this project has some exciting features in the works.`}</p>
               </div>
             </div>
+
             <Link href="/mint">
               <div className="mt-16 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
                 Go to minting page
