@@ -118,3 +118,19 @@ nav ul li p {
 nav ul li p:hover {
   background-color: #666;
 }
+
+.about-me-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+.about-me-text {
+  text-align: center;
+  font-size: larger;
+  color: #fff;
+  max-width: 70%;
+  line-height: 1.6;
+}
