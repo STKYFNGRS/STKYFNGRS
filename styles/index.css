@@ -121,10 +121,9 @@ nav ul li p:hover {
 
 .about-me-container {
   display: flex;
-  position: fixed;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 50vh;
   background-color: #000000;
 }
 
