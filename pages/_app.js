@@ -36,11 +36,6 @@ function MyApp({ Component, pageProps }) {
                 <p>Mint</p>
               </Link>
             </li>
-            <li>
-              <Link href="/swap">
-                <p>Swap</p>
-              </Link>
-            </li>
           </ul>
         </nav>
       </header>
