@@ -18,8 +18,8 @@ const AboutPage = () => {
           journey. The Mint page is a simple NFT minting dapp I built for the
           pieces of my art I'd like to get onto the blockchain. This is a 10k
           collection comprised of a generative collection I created with a few
-          hundred of my favorite photographs that I've taken over the years.
-          Thanks for stopping by, I hope you enjoy!
+          hundred of my favorite photographs that I've taken over the years
+          sprinkled in. Thanks for stopping by, I hope you enjoy!
         </p>
       </div>
     </div>
