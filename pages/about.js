@@ -12,8 +12,9 @@ const AboutPage = () => {
           photography and digital art. The Learn tab at the top will have some
           links I found interesting and helpful regarding web3, crypto and
           development. When I got interested in Ethereum in 2021 I had never ran
-          a command prompt, used powershell or done anything technical for that
-          matter and the information in these links were instrumental on my web3
+          a command prompt, used powershell or done anything technical in
+          computing for that matter, I had stricly been an end user up to this
+          point. The information in these links were instrumental on my web3
           journey. The Mint page is a simple NFT minting dapp I built for the
           pieces of my art I'd like to get onto the blockchain. This is a 10k
           collection comprised of a generative collection I created with a few
