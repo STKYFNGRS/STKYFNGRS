@@ -10,11 +10,15 @@ const AboutPage = () => {
           who works as an analyst. My passions for technology and creativity
           extends to various hobbies, such as PC building, programming,
           photography and digital art. The Learn tab at the top will have some
-          links I found interesting regarding web3, crypto and development. The
-          Mint page is a simple NFT minting app I built for the pieces I'd like
-          to get onto the blockchain. These are mostly photographs from the past
-          20 years mixed with some digital art I created. The mint will end when
-          2000 pieces have been minted.
+          links I found interesting and helpful regarding web3, crypto and
+          development. When I got interested in Ethereum in 2021 I had never ran
+          a command prompt, used powershell or done anything technical for that
+          matter and the information in these links were instrumental on my web3
+          journey. The Mint page is a simple NFT minting dapp I built for the
+          pieces of my art I'd like to get onto the blockchain. This is a 10k
+          collection comprised of a generative collection I created with a few
+          hundred of my favorite photographs that I've taken over the years.
+          Thanks for stopping by, I hope you enjoy!
         </p>
       </div>
     </div>
