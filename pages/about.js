@@ -9,7 +9,7 @@ const AboutPage = () => {
           California. A bit about me, I am a happy husband and father of two. An
           analyst by trade, my passions for technology and creativity extends to
           various hobbies, such as PC building, programming, photography and
-          digital art. The Thanks for stopping by, I hope you enjoy!
+          digital art. Thanks for stopping by, I hope you enjoy!
         </p>
       </div>
     </div>
