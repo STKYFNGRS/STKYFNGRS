@@ -27,11 +27,6 @@ function MyApp({ Component, pageProps }) {
               </Link>
             </li>
             <li>
-              <Link href="/learn">
-                <p>Learn</p>
-              </Link>
-            </li>
-            <li>
               <Link href="/mint">
                 <p>Mint</p>
               </Link>
