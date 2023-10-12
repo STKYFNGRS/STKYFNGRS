@@ -26,11 +26,13 @@ function MyApp({ Component, pageProps }) {
                 <p>About</p>
               </Link>
             </li>
+            /*{" "}
             <li>
               <Link href="/mint">
                 <p>Mint</p>
               </Link>
             </li>
+            */
           </ul>
         </nav>
       </header>
