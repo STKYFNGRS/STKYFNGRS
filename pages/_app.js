@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
     <div className="app">
       <Head>
         <title> STKYFNGRS </title>
-        <meta name="description" content="For the real ones" />
+        <meta name="description" content="For real ones" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
