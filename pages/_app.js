@@ -1,7 +1,6 @@
 // Import the necessary modules
 import Head from "next/head";
 import Link from "next/link";
-import { Analytics } from "@vercel/analytics/react";
 import "../styles/index.css";
 
 function MyApp({ Component, pageProps }) {
