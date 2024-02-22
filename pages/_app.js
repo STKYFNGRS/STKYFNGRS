@@ -60,7 +60,7 @@ function MyApp({ Component, pageProps }) {
 
               <li className="cursor-pointer">
                 <a
-                  href="https://discord.gg/suvXXNK4n3"
+                  href="https://twitter.com/_STKYFNGRS"
                   target="_blank"
                   rel="noreferrer"
                 >
