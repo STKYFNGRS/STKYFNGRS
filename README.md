@@ -1,3 +1,3 @@
 # STKYFNGRS
 
-Personal website with NFT minting
+Hola Amigo
