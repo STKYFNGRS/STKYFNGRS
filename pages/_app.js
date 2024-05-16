@@ -34,8 +34,7 @@ function MyApp({ Component, pageProps }) {
       </main>
       <footer className="app-footer">
         <p>
-          &copy; {new Date().getFullYear()} Built with ❤️ by STKYFNGRS. All
-          rights reserved.
+          &copy; {new Date().getFullYear()} ❤️ STKYFNGRS. All rights reserved.
         </p>
         <div className="contact-footer">
           <nav aria-label="Contact Menu">
